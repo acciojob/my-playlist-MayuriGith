@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(204, 204, 204);
+}
+.ullist{
+	background-color:rgb(255,255,255);
+	border: 2px solid black;
+	border-radius:10px;
+	padding:2px;
+	margin:5px;
+	height:150px;
+	line-height:25px;
+}
+.heading{
+	text-align:center;
+}
+.list{
+	list-style-type:none;
+	font-weight:bold;
+	display:flex;
+	justify-content:flex-start;
+}
+.controls{
+	background-color:rgb(255, 255, 255);
+	border:2px solid black;
+	padding:10px;
+	border-radius:5px;
+	width:500px;
+	margin-left:60px;
+	margin-right:60px;
+	margin-bottom:20px;
+}
+.player_one{
+	width:500px;
+}
+.player_two{
+	width:500px;
+}
